@@ -1,0 +1,92 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.table1{
+   width: 50%;
+   height: 80%;
+   margin: 50px 150px 20px 100px ;
+}
+.table2{
+    width: 70%;
+    height: 40%;
+    margin: 60px 50px 0px 250px;
+}
+td{
+    height: 86px;
+    width: 67px;
+    text-align: center;
+    font-size: 13px;
+    border: 1px solid white;
+}
+.big{
+    font-size: 20px;
+}
+.color1 {
+    background-color: #99e599;
+    color: #318747;
+    font-weight: bold;
+  }
+  
+  .color2 {
+    background-color: #ffcce5;
+    color: #cd092c;
+    font-weight: bold;
+  }
+  
+  .color3 {
+    background-color: #ffe57f;
+    color: #d09d0e;
+    font-weight: bold;
+  }
+  .color4 {
+    background-color: #ffccb2;
+    color: #962501;
+    font-weight: bold;
+  }
+  .color5 {
+    background-color: #cccccc;
+    color: #5e5e5e;
+    font-weight: bold;
+  }
+  .color12 {
+    background-color: #ea8350;
+    color: #fffcfd;
+    font-weight: bold;
+  }
+  .color13 {
+    background-color: #9e87bd;
+    color: #35079a;
+    font-weight: bold;
+  }
+  
+  .color89 {
+    background-color: #7fe5e5;
+    color: #29a951;
+    font-weight: bold;
+  }
+  .color57 {
+    background-color: #b2ccff;
+    color: #5e87ba;
+    font-weight: bold;
+  }
+  
+  .color21 {
+    background-color: #b2e5ff;
+    color: #0198cc;
+    font-weight: bold;
+  }
+  
+  .color89b {
+    background-color: #7fe5e5;
+    color: #016262;
+    font-weight: bold;
+  }
+  
+  .color57b {
+    background-color: #b2ccff;
+    color: #156acf;
+    font-weight: bold;
+  }
