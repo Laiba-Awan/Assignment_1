@@ -1,2 +1,2 @@
 # Assignment_1
-Created Periodic Table using HTML and CSS.
+I created a Periodic Table using HTML and CSS.
